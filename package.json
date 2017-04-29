@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "express": "^4.15.2",
-  "engines": {
-  "node": "6.10.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
