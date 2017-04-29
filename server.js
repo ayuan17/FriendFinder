@@ -22,3 +22,4 @@ require('./app/routing/htmlRoutes.js')(app);
 
 //Listening to the port that was set up
 app.listen(port, () => console.log("Listening on port %s"  , port));
+
